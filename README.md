@@ -1,6 +1,6 @@
 [![tigerHee's github stats](https://github-readme-stats.vercel.app/api?username=TigerHee&theme=radical&show_icons=true&hide_rank=false&include_all_commits=true&line_height=22&bg_color=000000&title_color=FE428E&icon_color=FFD700&text_color=FFD700)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TigerHee&layout=compact&theme=radical&hide_title=true&bg_color=000000&text_color=FFD700)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TigerHee&layout=compact&theme=radical&hide_title=true&bg_color=000000&text_color=FFD700&hide=PHP)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages & Tools
 
